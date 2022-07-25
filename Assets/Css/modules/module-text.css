@@ -1,0 +1,98 @@
+.center-text {
+    text-align: center !important;
+}
+.mt-1 {
+    margin-top: var(--mg-5);
+}
+.mb-1 {
+    margin-bottom: var(--mg-5);
+}
+.ml-1 {
+    margin-left: var(--mg-5);
+}
+.mr-1 {
+    margin-right: var(--mg-5);
+}
+.mt-2 {
+    margin-top: var(--mg-5);
+}
+.mb-2 {
+    margin-bottom: var(--mg-5);
+}
+.ml-2 {
+    margin-left: var(--mg-5);
+}
+.mr-2 {
+    margin-right: var(--mg-5);
+}
+.mt-3 {
+    margin-top: var(--mg-5);
+}
+.mb-3 {
+    margin-bottom: var(--mg-5);
+}
+.ml-3 {
+    margin-left: var(--mg-5);
+}
+.mr-3 {
+    margin-right: var(--mg-5);
+}
+.mt-4 {
+    margin-top: var(--mg-5);
+}
+.mb-4 {
+    margin-bottom: var(--mg-5);
+}
+.ml-4 {
+    margin-left: var(--mg-5);
+}
+.mr-4 {
+    margin-right: var(--mg-5);
+}
+.mt-5 {
+    margin-top: var(--mg-5);
+}
+.mb-5 {
+    margin-bottom: var(--mg-5);
+}
+.ml-5 {
+    margin-left: var(--mg-5);
+}
+.mr-5 {
+    margin-right: var(--mg-5);
+}
+
+.default-text {
+    color: black;
+}
+.text-danger {
+    color: var(--cl-danger);
+}
+.text-info {
+    color: var(--cl-info);
+}
+.success-text {
+    color: var(--cl-success);
+}
+.box-info {
+    padding: 2px;
+
+    border: 1px solid var(--cl-info);
+        background-color: var(--cl-info);
+        color: var(--cl-white);
+}
+.box-success {
+    padding: 2px;
+
+
+    border: 1px solid var(--cl-success);
+    background-color: var(--cl-success);
+    color: var(--cl-white);
+}
+.box-danger {
+    padding: 2px;
+
+    border: 1px solid var(--cl-danger);
+        background-color: var(--cl-danger);
+        color: var(--cl-white);
+}

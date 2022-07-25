@@ -1,0 +1,62 @@
+.btn{
+    border: 1px solid var(--btn-default-color);
+    background-color: var(--btn-default-background);
+    color: var(--btn-default-color);
+    padding: 5px 10px;
+}
+.btn:hover{
+    color: var(--btn-default-hover);
+    border-color: var(--btn-default-hover);
+    background: var(--btn-default-color);
+    cursor: pointer;
+}
+.btn-info{
+    border-color: var(--btn-info-color);
+    color: var(--btn-info-color);
+    background-color: var(--btn-info-background);
+}
+.btn-info:hover{
+    color: var(--btn-info-hover);
+    border-color: var(--btn-info-hover);
+    background-color: var(--btn-info-color);
+    cursor: pointer;
+}
+.btn-submit{
+    border-color: var(--btn-submit-color);
+    color: var(--btn-submit-color);
+    background-color: var(--btn-submit-background);
+}
+.btn-submit:hover{
+    color: var(--btn-submit-hover);
+    border-color: var(--btn-submit-hover);
+    background-color: var(--btn-submit-color);
+    cursor: pointer;
+}
+.btn-danger{
+    border-color: var(--btn-danger-color);
+    color: var(--btn-danger-color);
+    background-color: var(--btn-danger-background);
+}
+.btn-danger:hover{
+    color: var(--btn-danger-hover);
+    border-color: var(--btn-danger-hover);
+    background-color: var(--btn-danger-color);
+    cursor: pointer;
+}
+.btn-reset{
+    border-color: var(--btn-reset-color);
+    color: var(--btn-reset-color);
+    background-color: var(--btn-reset-background);
+}
+.btn-reset:hover{
+    color: var(--btn-reset-hover);
+    border-color: var(--btn-reset-hover);
+    background-color: var(--btn-reset-color);
+    cursor: pointer;
+}
+.btn-sm {
+    font-size: 11.5px;
+}
+.btn-lg {
+    font-size: 20.5px;
+}
